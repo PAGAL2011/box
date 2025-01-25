@@ -1,0 +1,38 @@
+.as{
+   color: #fff;
+   text-align: center;
+   background-color: chocolate;
+   
+   
+}
+.ad{
+    background-color: rgb(2, 100, 67);
+    width: 2500px;
+    height: 2500px;
+}
+.afuet{
+    background-color: black;
+    border: 7px solid rgb(255, 0, 0);
+    width: 550px;
+    height: 370px;
+    margin: auto;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.ah{
+    background-color: aquamarine;
+    width: 450px;
+    height: 75px;
+    margin: auto;
+    padding: 30px;
+}
+.az{
+    background-color: aquamarine;
+    width: 450px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 23px;
+    
+    padding: 30px ;
+    
+}
